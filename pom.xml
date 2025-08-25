@@ -61,7 +61,7 @@
         <artifactId>gatling-maven-plugin</artifactId>
         <version>${gatling-maven-plugin.version}</version>
         <configuration>
-          <simulationClass>com.example.MySimulation</simulationClass>
+          <simulationClass>com.example.RinhaBackendSimulation</simulationClass>
           <runMultipleSimulations>false</runMultipleSimulations>
         </configuration>
       </plugin>

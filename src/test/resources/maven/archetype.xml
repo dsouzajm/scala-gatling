@@ -1,6 +1,6 @@
 <archetype>
   <id>scala-gatling</id>
   <testSources>
-    <source>src/test/com/example/MySimulation.scala</source>
+    <source>src/test/com/example/RinhaBackendSimulation.scala</source>
   </testSources>
 </archetype>
